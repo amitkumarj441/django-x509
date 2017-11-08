@@ -1,0 +1,9 @@
+[main]
+host = https://www.transifex.com
+
+[i18n.enjson]
+file_filter = django_x509/<lang>.json
+source_file = django_x509/en.json
+source_lang = en
+type = KEYVALUEJSON
+
